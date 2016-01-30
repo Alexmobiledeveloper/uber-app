@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>523A2519-9ABE-4144-8704-D5F7556F3473</string>
+	<key>IDESourceControlProjectName</key>
+	<string>TaxiNow</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>CC9517511376B49D002E9414EA22EB7245979D43</key>
+		<string>https://bitbucket.org/provenlogic/taxinow_v2_client-ios.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>TaxiNow.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>CC9517511376B49D002E9414EA22EB7245979D43</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://bitbucket.org/provenlogic/taxinow_v2_client-ios.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>CC9517511376B49D002E9414EA22EB7245979D43</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>CC9517511376B49D002E9414EA22EB7245979D43</string>
+			<key>IDESourceControlWCCName</key>
+			<string>taxinow_v2_client-ios</string>
+		</dict>
+	</array>
+</dict>
+</plist>
